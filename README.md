@@ -9,7 +9,7 @@
 - ✅ Passes Play Store Integrity (Strong) check  
 - ✅ Fixes detection issues on rooted/custom devices  
 - ✅ Systemless and safe via Magisk  
-- ✅ Supports most Android 11–14 devices  
+- ✅ Supports most Android 11–15 devices  
 - ✅ Works best with **TrickyStore** & **TSupport Advance**
 
 ---
