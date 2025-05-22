@@ -1,45 +1,48 @@
-## 👋 Hi there, welcome to GotenProject - Magisk Module
+## ✅ Integrity Fix – Pass Strong Integrity on Play Store
 
-🚀 **GotenProject** is a Magisk module designed to bring additional features or custom modifications to Android systems — all without altering the system partition (systemless). Perfect for users who want deeper control over their devices.
-
----
-
-### 📌 Key Features
-
-- ✅ modding with minimal risk of bootloop  
-- ✅ Compatible with a wide range of Android versions and devices  
-- ✅ Lightweight, fast, and easy to install  
-- ✅ Developed with a focus on safety and efficiency  
+🚀 **GotenAjje - Integrity Fix** is a lightweight Magisk module that helps your device pass the **"Passed (Strong)"** status in the Play Store's Integrity Check — perfect for rooted or modified systems.
 
 ---
 
-### 📦 Installation Guide
+### 🔐 What It Does
 
-1. Make sure Magisk is installed on your device  
-2. Download the `.zip` file from the [latest release](https://github.com/GotenAjje/Gotenajje/releases)  
-3. Open the Magisk app → go to *Modules* → tap the `+` button  
-4. Select the downloaded `.zip` file  
-5. Reboot your device  
-
----
-
-### ❗ Notes
-
-- This module has been tested on several devices, but please **use at your own risk**  
-- For best compatibility, use the latest version of Magisk  
+- ✅ Passes Play Store Integrity (Strong) check  
+- ✅ Fixes detection issues on rooted/custom devices  
+- ✅ Systemless and safe via Magisk  
+- ✅ Supports most Android 11–14 devices  
+- ✅ Works best with **TrickyStore** & **TSupport Advance**
 
 ---
 
-### 📬 Contact & Community
+### 📦 How to Install
 
-- 💬 Telegram Channel: [https://t.me/gotenbest](https://t.me/gotenbest)
+1. Make sure the **latest Magisk** is installed  
+2. Download the module from the [📦 latest release](https://github.com/GotenAjje/Gotenajje1/releases)  
+3. Open the **Magisk App** → *Modules* → Tap ➕  
+4. Select the `.zip` module  
+5. Reboot your device and check integrity in Play Store  
+
+---
+
+### 📝 Notes
+
+- Requires **Zygisk enabled**  
+- Compatible with **Pixel props** or **certified props** setups  
+- You may need to **clear data** for Play Store after installing  
+
+---
+
+### 📢 Contact & Support
+
+- 💬 Telegram: [https://t.me/gotenbest](https://t.me/gotenbest)  
+- 🐙 GitHub Project: [GotenAjje](https://github.com/GotenAjje/Gotenajje1)
 
 ---
 
 ### ⚖️ License
 
-This project is released under the [License](https://github.com/GotenAjje/Gotenajje/blob/main/LICENSE)
+Released under [MIT License](https://github.com/GotenAjje/Gotenajje1/blob/main/LICENSE)
 
 ---
 
-Thank you for using GotenProject!
+🛡️ Stay safe. Stay rooted.
