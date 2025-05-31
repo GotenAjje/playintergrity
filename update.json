@@ -1,7 +1,1 @@
-{
-  "version": "v2.3",
-  "versionCode": 23,
-  "zipUrl": "https://github.com/GotenAjje/Gotenajje/releases/download/v2.3/integrityfix-v2.3.zip",
-  "changelog": "Updated to v2.3 with full support for passing Play Integrity (Strong). Improved compatibility with TrickyStore and TSupport Advance.",
-  "author": "GotenAjje"
-}
+
