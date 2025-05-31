@@ -1,6 +1,0 @@
-{
-  "version": "v2.4",
-  "versionCode": 24,
-  "zipUrl": "https://github.com/GotenAjje/Gotenajje/releases/download/v2.4/integrityfix-v2.4.zip",
-  "changelog": "Fix Play Integrity to restore Play Store access on rooted devices."
-}
