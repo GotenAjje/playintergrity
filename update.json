@@ -1,6 +1,11 @@
 {
-  "versionCode": 24,
+  "id": "integrityfix",
+  "name": "Play Integrity Fix Mod",
   "version": "v2.4",
-  "zipUrl": "https://github.com/GotenAjje/Gotenajje/releases/download/v2.4/PlayIntegrityFixMod-v2.4.zip",
-  "changelog": "https://raw.githubusercontent.com/GotenAjje/Gotenajje/main/changelog.md"
+  "versionCode": 24,
+  "author": "GotenAjje",
+  "description": "A module to fix Play Integrity on modified or rooted devices.",
+  "changelog": "- Updated to version 2.4\n- Improved compatibility\n- System optimizations",
+  "download": "https://github.com/GotenAjje/Gotenajje/releases/download/v2.4/integrityfix-v2.4.zip",
+  "support": "https://github.com/GotenAjje/Gotenajje/issues"
 }
