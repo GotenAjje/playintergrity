@@ -1,11 +1,6 @@
 {
-  "id": "integrityfix",
-  "name": "Play Integrity Fix Mod",
   "version": "v2.4",
   "versionCode": 24,
-  "author": "GotenAjje",
-  "description": "A module to fix Play Integrity on modified or rooted devices.",
-  "changelog": "- Updated to version 2.4\n- Improved compatibility\n- System optimizations",
-  "download": "https://github.com/GotenAjje/Gotenajje/releases/download/v2.4/integrityfix-v2.4.zip",
-  "support": "https://github.com/GotenAjje/Gotenajje/issues"
+  "zipUrl": "https://github.com/GotenAjje/Gotenajje/releases/download/v2.4/integrityfix-v2.4.zip",
+  "changelog": "Fix Play Integrity to restore Play Store access on rooted devices."
 }
