@@ -1,13 +1,14 @@
 ## ✅ Integrity Fix – Pass Strong Integrity on Play Store
 
-🚀 **GotenAjje - Integrity Fix** is a lightweight Magisk module that helps your device pass the **"Passed (Strong)"** status in the Play Store's Integrity Check — perfect for rooted or modified systems.
+🚀 **Integrity Fix** is a lightweight Magisk module that helps your device pass the **"Passed (Strong)"** status in the Play Store's Integrity Check — perfect for rooted or modified systems.
 
 ---
 
 ### 🔐 What It Does
 
-- ✅ Passes Play Store Integrity (Strong) check  
-- ✅ Fixes detection issues on rooted/custom devices  
+- ✅ Passes Play Store Integrity (Strong) check
+- ✅ Generate Random keybox fix Strong   
+- ✅ Fixes detection issues on rooted/custom Rom  
 - ✅ Systemless and safe via Magisk  
 - ✅ Supports most Android 11–15 devices  
 - ✅ Works best with **TrickyStore** & **TSupport Advance**
