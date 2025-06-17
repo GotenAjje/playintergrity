@@ -37,6 +37,10 @@
 
 - 💬 Telegram: [https://t.me/gotenbest](https://t.me/gotenbest)  
 - 🐙 GitHub Project: [GotenAjje](https://github.com/GotenAjje/Gotenajje)
+- Credits Source intergrity fix:
+- credit source: http://github.com/tryigit
+- credits source: http://github.com/Citra-Standalone
+- credits source: http://github.com/EricInacio01
 
 ---
 
