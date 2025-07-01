@@ -1,6 +1,11 @@
 {
-  "version": "v2.9",
-  "versionCode": 29,
-  "zipUrl": "https://github.com/GotenAjje/Gotenajje/releases/download/v2.9/integrityfix.zip",
-  "changelog": "Fix Play Integrity to restore Play Store access on rooted devices."
+  "id": "playintegrityfix",
+  "name": "Inject Integrity ✅",
+  "version": "v3.0",
+  "versionCode": 30,
+  "author": "GotenAjje",
+  "description": "SafetyNet for Google Play Store",
+  "updateJson": "https://raw.githubusercontent.com/GotenAjje/Gotenajje/refs/heads/main/update.json",
+  "zipUrl": "https://github.com/GotenAjje/Gotenajje/releases/download/v3.0/integrityfix.zip",
+  "changelog": "Update 3.0: Fix Play Integrity, supports auto update in Magisk & KernelSU"
 }
