@@ -5,7 +5,7 @@
   "versionCode": 30,
   "author": "GotenAjje",
   "description": "SafetyNet for Google Play Store",
-  "updateJson": "https://raw.githubusercontent.com/GotenAjje/Gotenajje/refs/heads/main/update.json",
+  "updateJson": "https://raw.githubusercontent.com/GotenAjje/Gotenajje/main/update.json",
   "zipUrl": "https://github.com/GotenAjje/Gotenajje/releases/download/v3.0/integrityfix.zip",
   "changelog": "Update 3.0: Fix Play Integrity, supports auto update in Magisk & KernelSU"
 }
