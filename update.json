@@ -1,7 +1,6 @@
 {
   "version": "v3.1",
   "versionCode": 31,
-  "zipUrl": "https://github.com/GotenAjje/Gotenajje/releases/tag/V3.1",
-  "changelog": "https://raw.githubusercontent.com/GotenAjje/Gotenajje/refs/heads/main/README.md"
-  
+  "zipUrl": "https://github.com/GotenAjje/Gotenajje/releases/download/V3.1/NAMA_FILE.zip",
+  "changelog": "https://raw.githubusercontent.com/GotenAjje/Gotenajje/main/README.md"
 }
