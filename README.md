@@ -11,7 +11,7 @@
 - ✅ Fixes detection issues on rooted/custom Rom  
 - ✅ Systemless and safe via Magisk  
 - ✅ Supports most Android 11–15 devices  
-- ✅ Works best with **TrickyStore** & **TSupport Advance**
+- ✅ Works best with **TrickyStore**
 
 ---
 
