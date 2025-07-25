@@ -41,6 +41,7 @@
 - credit source: http://github.com/tryigit
 - credits source: http://github.com/Citra-Standalone
 - credits source: http://github.com/EricInacio01
+- credits source: https://github.com/dpejoh/yurikey
 
 ---
 
