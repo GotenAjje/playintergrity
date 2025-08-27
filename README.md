@@ -51,4 +51,4 @@ Released under [MIT License](https://github.com/GotenAjje/Gotenajje/blob/main/LI
 
 ---
 
-🛡️ Stay safe. Stay rooted.
+🛡️ Stay safe. Stay rooted..
