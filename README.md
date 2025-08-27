@@ -7,7 +7,7 @@
 ### 🔐 What It Does
 
 - ✅ Passes Play Store Integrity (Strong) check
-- ✅ Generate Random keybox fix Strong   
+- ✅ keybox fix Strong   
 - ✅ Fixes detection issues on rooted/custom Rom  
 - ✅ Systemless and safe via Magisk  
 - ✅ Supports most Android 11–15 devices  
